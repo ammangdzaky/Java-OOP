@@ -29,6 +29,15 @@ public class Waifu {
         this(null);
     }
 
+//    // cons 5 bonus
+//    Waifu (String type){
+//        this.name = null;
+//        this.age = null;
+//        this.type = type;
+//        // sama saja seperti saya menulis
+////        this(null,null,type);
+//    }
+
     void getInfo(){
         System.out.print("Name: " + name + ", ");
         System.out.print("Age: " + age + ", ");

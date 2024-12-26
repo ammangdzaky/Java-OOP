@@ -1,0 +1,3 @@
+class Assasin extends Hero{
+
+}

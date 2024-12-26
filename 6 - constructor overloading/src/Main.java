@@ -34,6 +34,7 @@ public class Main {
         Waifu miku = new Waifu ("Miku Nakano", 20);
         Waifu lena = new Waifu ("Vladilena Milize");
         Waifu aqua = new Waifu();
+        Waifu rin = new Waifu()
 
         System.out.println("\n");
         tsukasa.getInfo();
